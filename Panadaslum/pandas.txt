@@ -1,0 +1,27 @@
+#Pandas is a python library used for data manipulation
+
+#used for data analysis==>classify and organise data
+
+
+#Used for Data cleaning ===> Handling_missing value, 
+
+
+#Pandas Data Structure
+#......................
+
+      #List
+      
+      #set
+
+      #Tuples
+
+      #Dictionaries
+
+      #are data structures in python
+
+  #There are three data structures are used in pandas
+
+  #  1.Series --> If the given data is 1D convert it to series(List,set,tuple)
+  #  2.Data_frame --> If the given data is 2D convert it to df(text file, csv, nested_list)-important
+  #  3.Label --> if the given data is 3D
+
