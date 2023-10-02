@@ -1,1 +1,2 @@
-
+keep everything in folder and run chatbot.py.
+tell the problem
