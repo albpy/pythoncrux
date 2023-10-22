@@ -5,6 +5,8 @@ Proj Object Detection contains a method programmed to measure the dimensions(Len
 
 ![](https://github.com/albpy/pythoncrux/blob/main/measurent.gif)
 
+![]<img src="https://github.com/albpy/pythoncrux/blob/main/measurent.gif" width="40" height="40" />
+
 chatbot contain chatbot
 
 neural network from scratch contains an experimental layers
