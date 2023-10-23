@@ -5,8 +5,9 @@ Proj Object Detection contains a method programmed to measure the dimensions(Len
 
 <img src="https://github.com/albpy/pythoncrux/blob/main/measurent.gif" width="250" height="350" />
 
+Emotion detection:
 
-<img src="https://github.com/albpy/pythoncrux/blob/main/emotion_detection.gif" width="100" height="100" />
+<img src="https://github.com/albpy/pythoncrux/blob/main/emotion_detection.gif" width="200" height="250" />
 
 chatbot contain chatbot
 
