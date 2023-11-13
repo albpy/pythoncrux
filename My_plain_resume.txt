@@ -1,0 +1,75 @@
++91 7559083324           Albin George Jose            albinjos64@gmail.com
+https://github.com/albpy                    https://www.linkedin.com/albpy
+
+                   SOFTWARE DEVELOPER
+            (Data Science and Machine Learning)
+
+I’m a Software developer strongly willing to tackle modern problems by integrating Machine learning and Deep Learning. I can use my versatile coding skills to make resourceful software in modern programming languages. My added experience on using python Machine learning libraries will fuel the conventional software with the power of AI. I can deliver clean coding practices along with data structures and algorithms, both compiled and interpreted languages. I'm motivated to be a part of the organization, where I can contribute to the growth of the institution by further honing my problem-solving and coding skills.
+
+SKILLS
+Python Programming, Python-Django, Tensor Flow, SQL, Image Processing, ANNs and CNNs, Scikit-learn, Data Science Theory, Web Development, Natural Language Processing
+
+EXPERIENCES
+Software Engineer                                                                      Sept 2022 - Aug 2023
+Luminar Technolab
+- Emotion Detection using TensorFlow and OpenCV
+  Collected around 40000 images, classified into 7 basic emotions, and trained to predict among them using Convolutional neural network.
+  Achieved a 64% accuracy during training and 60% when tested.
+
+- Chatbot using NLTK toolkit
+  The JSON dataset is used to train the model which contains artificial neural networks for prediction.
+  General Bag of Words for vectorization is employed to decode the word-tag and reply context.
+  Trained a chatbot using python and keras framework – A chatbot that instructs people on mental health and provides support for them.
+
+- Developed a Deep learning model to predict the user activity from wearable devices
+  Trained a model in Keras to detect activity of the wearable device, based on the previous data.
+  Stoichiometric Gradient Descent algorithm is utilized for the optimization of the model.
+  The model is designed based on the Neural network from scratch(nnfs) framework and composes a dense layer, ReLU and SoftMax activation functions, and also categorical-cross entropy as the loss function for multi-class classification.
+
+- Anomaly detection in Unbalanced dataset
+  Created a Deep neural network using ANN with keras and pandas’ frameworks on an irregular dataset.
+  The model identified oddity in the dataset.
+  Able to oversample fraud data points as many as against overfitting.
+
+- Deployed real-time object measurement system
+  Successfully installed an object detection system that captures the images from the frames and then converts them into canny edge images.
+  System then identifies the image using bounding boxes drawn along the edges of the outer parent image and inner child image. Referencing both values the exact value of the image is detected.
+  Parent object is white plane paper. Child object is to be measured.
+  Effectively Measured the dimensions of the object by comparing edges to a white background.
+
+Customer Service Executive                                                             Jun 2021 - Jan 2022
+Oxygen Digital Expert
+  Provided customers with well-structured guidance and product insights.
+  Updating the company database with buyer’s data, contact details, product service information.
+  Help close sales and automate service bills.
+  Gathered customer feedback and routed advanced enquiries to higher departments.
+
+Hardware Engineer Intern                                                               Dec 2020 - Mar 2021
+I-net-Info-tech
+  Test, evaluate, and ensure hardware systems work as desired as performance requirements.
+  Optimized hardware for programming needs.
+  Troubleshooting solid-state storage devices & legacy computer systems.
+
+Census Enumerator                                                                      Oct 2019 - Mar 2020
+MOSPI, Govt. of India
+  Organized data from designated households and individuals under the management District level Coordinator.
+
+Trainee Engineer                                                                       Jul 2019 - Jun 2020
+Build Tech Constructions
+  Maintain welder records/position qualification as well as repair.
+  Opportunity to support the construction field. Intend of Project materials & Consumables. from store yard as per the Isomeric drawing.
+  Allotment of works as the Daily planning narrated.
+
+EDUCATION
+Bachelor of Technology, Mechanical Engineering                                         June 2014 - May 2018
+St. Joseph’s College of Engineering and Technology, Pala, Kottayam, Kerala
+
+CERTIFICATION AND TRAINING
+Specialization in Big Data and Machine Learning                                        Sept 2022 - Present
+Luminar Technolab, Kochi
+
+Specialization, Hardware Engineering                                                   Jun 2020 - Nov 2020
+I-net- Info-tech, Ernakulam North
+
+C++ Certification                                                                      Nov 2016 - Jan 2017
+Mannam Institute of Computer Technology (MICT), Palai, Kottayam, Kerala
