@@ -7,8 +7,6 @@ Proj Object Detection contains a method programmed to measure the dimensions(Len
 
 Emotion detection:
 
-<img src="https://github.com/albpy/pythoncrux/blob/main/emotion_detection.gif" width="250" height="200" />
-
 chatbot contain chatbot
 
 neural network from scratch contains an experimental layers
